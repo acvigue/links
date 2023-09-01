@@ -2,7 +2,7 @@
 name: Aiden Vigue
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: computer science 👨‍🔬
+tagline: I'm a freshman at Purdue studying Computer Science with a focus on projects related to embedded engineering.
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/acvigue.png
@@ -15,51 +15,29 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
 
-    # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: aiden.vigue
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
-    
     # LINKEDIN
-  - Name: LinkedIn
+  - Name: aidenvigue
     URL: https://www.linkedin.com/in
     Username: aiden-vigue-158891209
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 
     # GITHUB
-  - Name: GitHub
+  - Name: acvigue
     URL: http://github.com
     Username: acvigue
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
     # EMAIL
-  - Name: Email
+  - Name: aiden@vigue.me
     URL: 'mailto:aiden@vigue.me'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
 
-    # SNAPCHAT
-  - Name: Snapchat
-    URL: https://www.snapchat.com/add
-    Username: 'aidenvigue'
-    Color: '#FFFC00'
-    Text_Color: '#000000'
-    Icon-Class: fab fa-snapchat-ghost
-
-    # SPOTIFY
-  - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: w3g33ot2c4zxlxtzy15i7ldxi
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
-
     # CUSTOM LINK
-  - Name: Blog
+  - Name: vigue.me
     URL: https://vigue.me
     Icon-Class: fas fa-link
     Color: '#ffb142'
